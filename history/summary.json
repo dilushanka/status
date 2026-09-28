@@ -22,17 +22,17 @@
     "url": "https://redfix.lk/sitemap_index.xml",
     "icon": "https://icons.duckduckgo.com/ip3/redfix.lk.ico",
     "slug": "sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4024,
-    "timeDay": 4221,
-    "timeWeek": 4024,
-    "timeMonth": 4024,
-    "timeYear": 4024,
+    "time": 3647,
+    "timeDay": 2992,
+    "timeWeek": 3647,
+    "timeMonth": 3647,
+    "timeYear": 3647,
     "dailyMinutesDown": {}
   }
 ]
